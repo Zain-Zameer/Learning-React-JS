@@ -1,0 +1,11 @@
+JSX in react
+
+in react there are two types of components:
+1. Function based
+2. Class based
+
+Function based components are most common in use because they are easy.
+
+Inside the function of app the value of return is JSX. It is a html covered in a face of javascript.
+className, htmlFor,tabIndex
+Babel compiles JSX down to react createElement() calls.
